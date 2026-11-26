@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    NewsList
+    ProductList
 </template>
 
 <style scoped lang='scss'></style>

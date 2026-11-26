@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    NewsAdd
+    UserAdd
 </template>
 
 <style scoped lang='scss'></style>
